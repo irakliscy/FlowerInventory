@@ -4,7 +4,30 @@ Change your sql server "DefaultConnection": "Server="yoursqlserver=FlowerDB";Tru
 Download package 
 Microsoft.EntityFrameworkCore.SqlServer" 
 Microsoft.EntityFrameworkCore.Tools"
-To create Database use this commands:filesql
+To create Database use this commands:
+CREATE DATABASE FlowerDB;
+CREATE TABLE Categories (
+    CategoryId INT IDENTITY(1,1) PRIMARY KEY,
+    CategoryName VARCHAR(100) NOT NULL
+);
+CREATE TABLE Flowers (
+    FlowerId INT IDENTITY(1,1) PRIMARY KEY,
+    FlowerName VARCHAR(100) NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL,
+    CategoryId INT,
+    FOREIGN KEY (CategoryId) REFERENCES Categories(CategoryId)
+);
+INSERT INTO Categories (CategoryName)
+VALUES 
+    ('Roses'), 
+    ('Tulips');
+
+INSERT INTO Flowers (FlowerName, Price, CategoryId)
+VALUES 
+    ('Red Rose', 10.00, 1),
+    ('Yellow Rose', 12.50, 1),
+    ('Purple Tulip', 15.00, 2),
+    ('Pink Tulip', 18.00, 2);
 Add-Migration InitialCreate
 Update-Database
 
