@@ -1,0 +1,52 @@
+﻿@model IEnumerable<FlowerInventory.Models.Flower>
+
+@{
+    ViewData["Title"] = "All Flowers";
+}
+
+<h1 class="mb-3">@ViewData["Title"]</h1>
+
+
+<form asp-action="Index" method="get" class="mb-4 d-flex gap-2">
+    <input type="text" name="search" class="form-control" placeholder="Search flowers..." value="@Context.Request.Query["search"]" />
+    <button type="submit" class="btn btn-outline-primary">Search</button>
+</form>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">➕ Add New Flower</a>
+</p>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No flowers found.</div>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead class="table-light">
+            <tr>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Price</th>
+                <th>Category</th>
+                <th style="width: 180px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var flower in Model)
+            {
+                <tr>
+                    <td>@flower.Name</td>
+                    <td>@flower.Type</td>
+                    <td>@flower.Price.ToString("C")</td>
+                    <td>@flower.Category?.Name</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@flower.Id" class="btn btn-sm btn-info text-white">Details</a>
+                        <a asp-action="Edit" asp-route-id="@flower.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@flower.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

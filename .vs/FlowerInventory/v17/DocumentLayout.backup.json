@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\flower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\flower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\flower\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\flower\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\flower\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\flower\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\flower\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\flower\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\flower\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\flower\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\services\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:services\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:services\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\migrations\\20250404152523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:migrations\\20250404152523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\data\\flowerinventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:data\\flowerinventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|c:\\users\\irakl\\source\\repos\\flowerinventory\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9026059D-E57C-4825-B522-CA6309D22201}|FlowerInventory.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:44:45.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:44:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flower\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Index.cshtml",
+              "RelativeToolTip": "Views\\Flower\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:44:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flower\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Flower\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:44:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flower\\Details.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Details.cshtml",
+              "RelativeToolTip": "Views\\Flower\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:44:30.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T15:25:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:18:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flower\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Flower\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:44:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "Services\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\IFlowerService.cs",
+              "RelativeToolTip": "Services\\IFlowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:44:22.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:44:21.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Models\\Flower.cs",
+              "RelativeDocumentMoniker": "Models\\Flower.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Models\\Flower.cs",
+              "RelativeToolTip": "Models\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:43:10.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:43:08.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250404152523_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Migrations\\20250404152523_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250404152523_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Migrations\\20250404152523_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250404152523_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:43:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:52:31.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flower\\Create.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Flower\\Create.cshtml",
+              "RelativeToolTip": "Views\\Flower\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:14:03.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:42:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:19:39.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Services\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Services\\FlowerService.cs",
+              "RelativeToolTip": "Services\\FlowerService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:22:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:42:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Controllers\\FlowerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:15:48.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlowerInventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Data\\FlowerInventoryContext.cs",
+              "RelativeDocumentMoniker": "Data\\FlowerInventoryContext.cs",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Data\\FlowerInventoryContext.cs",
+              "RelativeToolTip": "Data\\FlowerInventoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:15:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\irakl\\source\\repos\\FlowerInventory\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T15:15:30.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
